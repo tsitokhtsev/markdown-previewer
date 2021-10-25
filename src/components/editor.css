@@ -17,4 +17,5 @@
 #editor:focus {
 	color: #fff;
 	background-color: rgb(34, 34, 34);
+	transition: .5s;
 }
